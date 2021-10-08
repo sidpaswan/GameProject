@@ -47,7 +47,7 @@ body{
     height:300px;
     width:2px;
     border-radius:2000px;
-    background:linear-gradient(to top,#EB9331,transparent);
+    background:linear-gradient(to top,#87CEEB,transparent);
     position: absolute;
     left:5%;    
     animation: falling 3s cubic-bezier(.54,.5,0,1) infinite;
@@ -96,7 +96,7 @@ body{
     transition:0.7s;
 }
 .wlc_msg:hover{
-    background-color: greenyellow;
+    background-color: #f20f5a;
     content: 'Click ME';
     cursor:pointer;
 
