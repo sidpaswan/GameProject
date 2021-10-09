@@ -96,7 +96,7 @@ body{
     transition:0.7s;
 }
 .wlc_msg:hover{
-    background-color: greenyellow;
+    background-color: cornflowerblue;
     content: 'Click ME';
     cursor:pointer;
 
